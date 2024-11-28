@@ -6,5 +6,6 @@ public class Main {
         Company company = new Company("Smart Lohi", bankDetails);
         bankDetails.setBillNumber("1274895443792384234234");
         System.out.println("Info of company: " + company);
+        //
     }
 }
